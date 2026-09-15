@@ -1,0 +1,6 @@
+{
+  "name": "Windows Shortcut Master",
+  "description": "Interactive educational platform to learn, practice, test, and master official Windows keyboard shortcuts with games, virtual keyboard, and quizzes in Uzbek, English, and Russian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
